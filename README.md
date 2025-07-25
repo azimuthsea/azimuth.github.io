@@ -1,2 +1,2 @@
-# azimuthsea.github.io-
+# azimuth.github.io
 Website containing my ideas and writings
